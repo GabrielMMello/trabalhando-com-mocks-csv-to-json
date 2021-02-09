@@ -80,7 +80,8 @@ $ cd trabalhando-com-mocks-csv-to-json
 $ node index.test.js
 
 # O resultado será exibido no cmd/terminal. Como padrão o conversor será baixado passando nos testes. 
-# Experimente modificar o conversor, como alterando a mensagem de erro ao receber um arquivo inválido e rode os testes para ver o erro sendo encontrado.
+# Experimente modificar o conversor (arquivo file.js dentro da pasta src), 
+# como alterando a mensagem de erro ao receber um arquivo inválido e rode os testes para ver o erro sendo encontrado.
 
 ```
 
@@ -122,4 +123,4 @@ Feito com carinho por Gabriel Mello
 
 ## Créditos
 
-- O projeto faz parte do Treiamento JS Expert realizado pelo [Erik Wendel](https://github.com/ErickWendel/jsexpert02-skeleton-ew/blob/main/README.md)
+- O projeto faz parte do Treiamento JS Expert realizado pelo [Erik Wendel](https://github.com/ErickWendel/)
